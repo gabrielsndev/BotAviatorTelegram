@@ -1,0 +1,1671 @@
+2024-05-31 14:18:54,357 - INFO - ====== WebDriver manager ======
+2024-05-31 14:18:59,076 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:19:00,198 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:19:01,161 - INFO - There is no [win64] chromedriver "125.0.6422.141" for browser google-chrome "125.0.6422" in cache
+2024-05-31 14:19:01,162 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:19:03,208 - INFO - WebDriver version 125.0.6422.141 selected
+2024-05-31 14:19:03,213 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win32/chromedriver-win32.zip
+2024-05-31 14:19:03,217 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win32/chromedriver-win32.zip
+2024-05-31 14:19:04,333 - INFO - Driver downloading response is 200
+2024-05-31 14:19:05,601 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:19:06,779 - INFO - Driver has been saved in cache [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141]
+2024-05-31 14:19:10,647 - INFO - iniciar_telas
+2024-05-31 14:19:10,649 - INFO - ====== WebDriver manager ======
+2024-05-31 14:19:13,214 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:19:14,727 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:19:15,699 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:19:20,895 - INFO - login
+2024-05-31 14:25:27,290 - INFO - ====== WebDriver manager ======
+2024-05-31 14:25:32,443 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:25:33,543 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:25:34,857 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:25:37,994 - INFO - iniciar_telas
+2024-05-31 14:25:37,994 - INFO - ====== WebDriver manager ======
+2024-05-31 14:25:40,382 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:25:41,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:25:42,785 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:25:47,547 - INFO - login
+2024-05-31 14:32:23,453 - INFO - ====== WebDriver manager ======
+2024-05-31 14:32:35,530 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:32:38,197 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:32:40,557 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:32:43,206 - INFO - iniciar_telas
+2024-05-31 14:32:43,208 - INFO - ====== WebDriver manager ======
+2024-05-31 14:32:50,114 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:32:54,765 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:33:04,662 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:33:12,744 - INFO - login
+2024-05-31 14:33:33,025 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (683, 235). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00BAB8E3+45827]
+	(No symbol) [0x00B3DCC4]
+	(No symbol) [0x00A3150F]
+	(No symbol) [0x00A78052]
+	(No symbol) [0x00A763D8]
+	(No symbol) [0x00A7425B]
+	(No symbol) [0x00A73823]
+	(No symbol) [0x00A685EF]
+	(No symbol) [0x00A92DFC]
+	(No symbol) [0x00A68075]
+	(No symbol) [0x00A93094]
+	(No symbol) [0x00AAC034]
+	(No symbol) [0x00A92B96]
+	(No symbol) [0x00A66998]
+	(No symbol) [0x00A6751D]
+	GetHandleVerifier [0x00E64513+2899763]
+	GetHandleVerifier [0x00EB793D+3240797]
+	GetHandleVerifier [0x00C313B4+593364]
+	GetHandleVerifier [0x00C382DC+621820]
+	(No symbol) [0x00B470A4]
+	(No symbol) [0x00B437A8]
+	(No symbol) [0x00B43947]
+	(No symbol) [0x00B359FE]
+	BaseThreadInitThunk [0x76567BA9+25]
+	RtlInitializeExceptionChain [0x770ABE3B+107]
+	RtlClearBits [0x770ABDBF+191]
+
+2024-05-31 14:33:33,026 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 14:37:20,078 - INFO - ====== WebDriver manager ======
+2024-05-31 14:37:31,524 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:37:33,892 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:37:36,685 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:37:39,163 - INFO - iniciar_telas
+2024-05-31 14:37:39,165 - INFO - ====== WebDriver manager ======
+2024-05-31 14:37:46,218 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:37:49,417 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:37:53,368 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:38:05,010 - INFO - login
+2024-05-31 14:38:26,770 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (683, 235). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00BAB8E3+45827]
+	(No symbol) [0x00B3DCC4]
+	(No symbol) [0x00A3150F]
+	(No symbol) [0x00A78052]
+	(No symbol) [0x00A763D8]
+	(No symbol) [0x00A7425B]
+	(No symbol) [0x00A73823]
+	(No symbol) [0x00A685EF]
+	(No symbol) [0x00A92DFC]
+	(No symbol) [0x00A68075]
+	(No symbol) [0x00A93094]
+	(No symbol) [0x00AAC034]
+	(No symbol) [0x00A92B96]
+	(No symbol) [0x00A66998]
+	(No symbol) [0x00A6751D]
+	GetHandleVerifier [0x00E64513+2899763]
+	GetHandleVerifier [0x00EB793D+3240797]
+	GetHandleVerifier [0x00C313B4+593364]
+	GetHandleVerifier [0x00C382DC+621820]
+	(No symbol) [0x00B470A4]
+	(No symbol) [0x00B437A8]
+	(No symbol) [0x00B43947]
+	(No symbol) [0x00B359FE]
+	BaseThreadInitThunk [0x76567BA9+25]
+	RtlInitializeExceptionChain [0x770ABE3B+107]
+	RtlClearBits [0x770ABDBF+191]
+
+2024-05-31 14:38:26,771 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 14:52:41,433 - INFO - ====== WebDriver manager ======
+2024-05-31 14:52:45,753 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:52:46,701 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:52:47,821 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:52:49,341 - INFO - iniciar_telas
+2024-05-31 14:52:49,342 - INFO - ====== WebDriver manager ======
+2024-05-31 14:52:51,141 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:52:52,173 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:52:53,263 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:52:57,155 - INFO - login
+2024-05-31 14:53:07,355 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (569, 312). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00BAB8E3+45827]
+	(No symbol) [0x00B3DCC4]
+	(No symbol) [0x00A3150F]
+	(No symbol) [0x00A78052]
+	(No symbol) [0x00A763D8]
+	(No symbol) [0x00A7425B]
+	(No symbol) [0x00A73823]
+	(No symbol) [0x00A685EF]
+	(No symbol) [0x00A92DFC]
+	(No symbol) [0x00A68075]
+	(No symbol) [0x00A93094]
+	(No symbol) [0x00AAC034]
+	(No symbol) [0x00A92B96]
+	(No symbol) [0x00A66998]
+	(No symbol) [0x00A6751D]
+	GetHandleVerifier [0x00E64513+2899763]
+	GetHandleVerifier [0x00EB793D+3240797]
+	GetHandleVerifier [0x00C313B4+593364]
+	GetHandleVerifier [0x00C382DC+621820]
+	(No symbol) [0x00B470A4]
+	(No symbol) [0x00B437A8]
+	(No symbol) [0x00B43947]
+	(No symbol) [0x00B359FE]
+	BaseThreadInitThunk [0x76567BA9+25]
+	RtlInitializeExceptionChain [0x770ABE3B+107]
+	RtlClearBits [0x770ABDBF+191]
+
+2024-05-31 14:53:07,356 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 14:54:33,658 - INFO - ====== WebDriver manager ======
+2024-05-31 14:54:37,586 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:54:38,555 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:54:39,595 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:54:41,082 - INFO - iniciar_telas
+2024-05-31 14:54:41,083 - INFO - ====== WebDriver manager ======
+2024-05-31 14:54:42,860 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:54:43,879 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:54:44,915 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:54:47,704 - INFO - login
+2024-05-31 14:55:11,161 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (768, 284). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00BAB8E3+45827]
+	(No symbol) [0x00B3DCC4]
+	(No symbol) [0x00A3150F]
+	(No symbol) [0x00A78052]
+	(No symbol) [0x00A763D8]
+	(No symbol) [0x00A7425B]
+	(No symbol) [0x00A73823]
+	(No symbol) [0x00A685EF]
+	(No symbol) [0x00A92DFC]
+	(No symbol) [0x00A68075]
+	(No symbol) [0x00A93094]
+	(No symbol) [0x00AAC034]
+	(No symbol) [0x00A92B96]
+	(No symbol) [0x00A66998]
+	(No symbol) [0x00A6751D]
+	GetHandleVerifier [0x00E64513+2899763]
+	GetHandleVerifier [0x00EB793D+3240797]
+	GetHandleVerifier [0x00C313B4+593364]
+	GetHandleVerifier [0x00C382DC+621820]
+	(No symbol) [0x00B470A4]
+	(No symbol) [0x00B437A8]
+	(No symbol) [0x00B43947]
+	(No symbol) [0x00B359FE]
+	BaseThreadInitThunk [0x76567BA9+25]
+	RtlInitializeExceptionChain [0x770ABE3B+107]
+	RtlClearBits [0x770ABDBF+191]
+
+2024-05-31 14:55:11,162 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 14:57:43,189 - INFO - ====== WebDriver manager ======
+2024-05-31 14:57:49,043 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:57:50,422 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:57:51,647 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:57:53,499 - INFO - iniciar_telas
+2024-05-31 14:57:53,500 - INFO - ====== WebDriver manager ======
+2024-05-31 14:57:56,291 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:57:57,513 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 14:57:58,775 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 14:58:03,776 - INFO - login
+2024-05-31 15:08:56,280 - INFO - ====== WebDriver manager ======
+2024-05-31 15:09:01,597 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:09:03,150 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:09:04,330 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:09:06,244 - INFO - iniciar_telas
+2024-05-31 15:09:06,247 - INFO - ====== WebDriver manager ======
+2024-05-31 15:09:08,969 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:09:10,217 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:09:11,792 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:09:16,411 - INFO - login
+2024-05-31 15:09:47,464 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (768, 284). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x009D8052]
+	(No symbol) [0x009D63D8]
+	(No symbol) [0x009D425B]
+	(No symbol) [0x009D3823]
+	(No symbol) [0x009C85EF]
+	(No symbol) [0x009F2DFC]
+	(No symbol) [0x009C8075]
+	(No symbol) [0x009F3094]
+	(No symbol) [0x00A0C034]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 15:09:47,472 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 15:10:22,369 - INFO - ====== WebDriver manager ======
+2024-05-31 15:10:25,107 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:10:26,635 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:10:27,914 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:11:53,563 - INFO - ====== WebDriver manager ======
+2024-05-31 15:11:58,148 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:11:59,302 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:12:00,559 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:12:02,169 - INFO - iniciar_telas
+2024-05-31 15:12:02,171 - INFO - ====== WebDriver manager ======
+2024-05-31 15:12:04,662 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:12:05,956 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:12:07,193 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:12:11,552 - INFO - login
+2024-05-31 15:12:45,036 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (768, 284). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x009D8052]
+	(No symbol) [0x009D63D8]
+	(No symbol) [0x009D425B]
+	(No symbol) [0x009D3823]
+	(No symbol) [0x009C85EF]
+	(No symbol) [0x009F2DFC]
+	(No symbol) [0x009C8075]
+	(No symbol) [0x009F3094]
+	(No symbol) [0x00A0C034]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 15:12:45,036 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 15:13:05,664 - INFO - ====== WebDriver manager ======
+2024-05-31 15:13:07,945 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:13:09,270 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:13:10,517 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:15:48,313 - INFO - ====== WebDriver manager ======
+2024-05-31 15:15:55,398 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:15:57,236 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:15:58,983 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:16:01,070 - INFO - iniciar_telas
+2024-05-31 15:16:01,071 - INFO - ====== WebDriver manager ======
+2024-05-31 15:16:04,936 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:16:08,213 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:16:14,275 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:16:21,507 - INFO - login
+2024-05-31 15:16:59,879 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (768, 284). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x009D8052]
+	(No symbol) [0x009D63D8]
+	(No symbol) [0x009D425B]
+	(No symbol) [0x009D3823]
+	(No symbol) [0x009C85EF]
+	(No symbol) [0x009F2DFC]
+	(No symbol) [0x009C8075]
+	(No symbol) [0x009F3094]
+	(No symbol) [0x00A0C034]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 15:16:59,880 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 15:17:37,978 - INFO - ====== WebDriver manager ======
+2024-05-31 15:17:40,786 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:17:42,028 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:17:43,226 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:18:44,909 - INFO - ====== WebDriver manager ======
+2024-05-31 15:18:49,614 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:18:51,056 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:18:53,386 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:18:54,738 - INFO - iniciar_telas
+2024-05-31 15:18:54,740 - INFO - ====== WebDriver manager ======
+2024-05-31 15:18:57,726 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:18:58,996 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:19:00,685 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:19:05,326 - INFO - login
+2024-05-31 15:20:49,468 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (768, 284). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x009D8052]
+	(No symbol) [0x009D63D8]
+	(No symbol) [0x009D425B]
+	(No symbol) [0x009D3823]
+	(No symbol) [0x009C85EF]
+	(No symbol) [0x009F2DFC]
+	(No symbol) [0x009C8075]
+	(No symbol) [0x009F3094]
+	(No symbol) [0x00A0C034]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 15:20:49,468 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 15:21:28,612 - INFO - ====== WebDriver manager ======
+2024-05-31 15:21:31,077 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:21:32,178 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:21:33,273 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:22:51,988 - INFO - ====== WebDriver manager ======
+2024-05-31 15:22:56,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:22:58,092 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:22:59,357 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:23:01,001 - INFO - iniciar_telas
+2024-05-31 15:23:01,003 - INFO - ====== WebDriver manager ======
+2024-05-31 15:23:03,432 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:23:05,100 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:23:06,495 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:23:20,814 - INFO - login
+2024-05-31 15:23:47,160 - ERROR - login -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[nam]"}
+  (Session info: chrome=125.0.6422.141); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x009D20BC]
+	(No symbol) [0x009D216B]
+	(No symbol) [0x00A0E0F2]
+	(No symbol) [0x009F2E44]
+	(No symbol) [0x00A0C034]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 15:23:47,161 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 15:25:53,251 - INFO - ====== WebDriver manager ======
+2024-05-31 15:25:55,708 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:25:56,813 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:25:57,917 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:26:10,937 - INFO - ====== WebDriver manager ======
+2024-05-31 15:26:15,803 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:26:17,242 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:26:18,333 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:26:20,029 - INFO - iniciar_telas
+2024-05-31 15:26:20,031 - INFO - ====== WebDriver manager ======
+2024-05-31 15:26:22,668 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:26:24,131 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:26:25,394 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:26:29,549 - INFO - login
+2024-05-31 15:28:36,136 - INFO - ====== WebDriver manager ======
+2024-05-31 15:28:39,064 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:28:40,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:28:42,239 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:29:21,011 - INFO - ====== WebDriver manager ======
+2024-05-31 15:29:25,788 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:29:27,073 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:29:28,150 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:29:29,713 - INFO - iniciar_telas
+2024-05-31 15:29:29,715 - INFO - ====== WebDriver manager ======
+2024-05-31 15:29:32,245 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:29:33,742 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 15:29:35,196 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 15:29:39,718 - INFO - login
+2024-05-31 16:00:25,971 - INFO - ====== WebDriver manager ======
+2024-05-31 16:00:28,970 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:00:30,102 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:00:31,406 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:01:43,660 - INFO - ====== WebDriver manager ======
+2024-05-31 16:01:49,835 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:01:51,112 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:01:52,396 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:01:54,491 - INFO - iniciar_telas
+2024-05-31 16:01:54,492 - INFO - ====== WebDriver manager ======
+2024-05-31 16:01:58,656 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:02:01,730 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:02:03,245 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:02:07,625 - INFO - login
+2024-05-31 16:03:41,221 - INFO - ====== WebDriver manager ======
+2024-05-31 16:03:43,299 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:03:44,224 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:03:45,176 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:04:23,445 - INFO - ====== WebDriver manager ======
+2024-05-31 16:04:27,668 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:04:28,971 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:04:29,949 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:04:31,500 - INFO - iniciar_telas
+2024-05-31 16:04:31,501 - INFO - ====== WebDriver manager ======
+2024-05-31 16:04:33,932 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:04:35,212 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:04:36,537 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:04:43,865 - INFO - login
+2024-05-31 16:11:12,037 - INFO - ====== WebDriver manager ======
+2024-05-31 16:11:15,469 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:11:16,621 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:11:17,764 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:11:35,536 - INFO - ====== WebDriver manager ======
+2024-05-31 16:11:41,356 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:11:42,853 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:11:44,221 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:11:46,396 - INFO - iniciar_telas
+2024-05-31 16:11:46,398 - INFO - ====== WebDriver manager ======
+2024-05-31 16:11:49,436 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:11:50,753 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:11:52,080 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:11:57,282 - INFO - login
+2024-05-31 16:12:02,287 - ERROR - login -> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x0096E133]
+	(No symbol) [0x009F949F]
+	(No symbol) [0x00A0B8E6]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 16:12:02,288 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 16:45:27,987 - INFO - ====== WebDriver manager ======
+2024-05-31 16:45:33,972 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:45:35,335 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:45:36,663 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:45:38,603 - INFO - iniciar_telas
+2024-05-31 16:45:38,607 - INFO - ====== WebDriver manager ======
+2024-05-31 16:45:41,189 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:45:42,702 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 16:45:44,136 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 16:45:47,432 - INFO - login
+2024-05-31 18:09:55,125 - INFO - ====== WebDriver manager ======
+2024-05-31 18:10:00,474 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:10:01,855 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:10:02,826 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:10:04,474 - INFO - iniciar_telas
+2024-05-31 18:10:04,476 - INFO - ====== WebDriver manager ======
+2024-05-31 18:10:06,711 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:10:07,860 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:10:08,932 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:10:13,867 - ERROR - iniciar_telas -> 'Main' object has no attribute 'login'
+2024-05-31 18:12:12,058 - INFO - ====== WebDriver manager ======
+2024-05-31 18:12:16,299 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:12:17,754 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:12:18,864 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:12:21,545 - INFO - iniciar_telas
+2024-05-31 18:12:21,547 - INFO - ====== WebDriver manager ======
+2024-05-31 18:12:23,701 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:12:24,861 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:12:26,146 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:15:13,900 - INFO - ====== WebDriver manager ======
+2024-05-31 18:15:16,295 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:15:17,572 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:15:18,739 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:16:40,236 - INFO - ====== WebDriver manager ======
+2024-05-31 18:16:47,575 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:16:48,792 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:16:49,868 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:16:51,422 - INFO - iniciar_telas
+2024-05-31 18:16:51,423 - INFO - ====== WebDriver manager ======
+2024-05-31 18:16:53,680 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:16:54,770 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:16:55,842 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:16:59,827 - INFO - login
+2024-05-31 18:19:04,794 - INFO - ====== WebDriver manager ======
+2024-05-31 18:19:09,163 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:19:10,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:19:11,214 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:19:12,822 - INFO - iniciar_telas
+2024-05-31 18:19:12,824 - INFO - ====== WebDriver manager ======
+2024-05-31 18:19:14,795 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:19:16,146 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:19:17,139 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:19:20,657 - INFO - login
+2024-05-31 18:22:17,252 - INFO - ====== WebDriver manager ======
+2024-05-31 18:22:22,071 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:22:23,109 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:22:24,045 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:22:25,537 - INFO - iniciar_telas
+2024-05-31 18:22:25,538 - INFO - ====== WebDriver manager ======
+2024-05-31 18:22:27,585 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:22:28,649 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:22:29,699 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:22:33,478 - INFO - login
+2024-05-31 18:25:13,383 - INFO - ====== WebDriver manager ======
+2024-05-31 18:25:16,611 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:25:17,596 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:25:18,546 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:25:50,869 - INFO - ====== WebDriver manager ======
+2024-05-31 18:25:54,934 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:25:56,106 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:25:57,080 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:25:58,577 - INFO - iniciar_telas
+2024-05-31 18:25:58,579 - INFO - ====== WebDriver manager ======
+2024-05-31 18:26:00,663 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:26:01,828 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:26:02,928 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:26:06,689 - INFO - login
+2024-05-31 18:27:17,423 - INFO - ====== WebDriver manager ======
+2024-05-31 18:27:21,747 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:27:22,829 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:27:23,759 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:27:25,251 - INFO - iniciar_telas
+2024-05-31 18:27:25,252 - INFO - ====== WebDriver manager ======
+2024-05-31 18:27:27,136 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:27:28,181 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:27:29,223 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:27:33,629 - INFO - login
+2024-05-31 18:30:23,440 - INFO - ====== WebDriver manager ======
+2024-05-31 18:30:26,795 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:30:28,216 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:30:29,435 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:31:23,274 - INFO - ====== WebDriver manager ======
+2024-05-31 18:31:27,623 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:31:28,716 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:31:29,664 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:31:31,171 - INFO - iniciar_telas
+2024-05-31 18:31:31,173 - INFO - ====== WebDriver manager ======
+2024-05-31 18:31:33,193 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:31:34,322 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:31:35,531 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:31:38,326 - INFO - login
+2024-05-31 18:33:58,676 - INFO - ====== WebDriver manager ======
+2024-05-31 18:34:02,424 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:34:03,404 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:34:04,584 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:34:52,147 - INFO - ====== WebDriver manager ======
+2024-05-31 18:34:57,142 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:34:58,255 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:34:59,188 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:35:00,730 - INFO - iniciar_telas
+2024-05-31 18:35:00,731 - INFO - ====== WebDriver manager ======
+2024-05-31 18:35:02,964 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:35:03,932 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:35:04,879 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:35:09,410 - INFO - login
+2024-05-31 18:36:54,940 - INFO - ====== WebDriver manager ======
+2024-05-31 18:36:59,215 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:37:00,302 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:37:01,239 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:37:02,749 - INFO - iniciar_telas
+2024-05-31 18:37:02,750 - INFO - ====== WebDriver manager ======
+2024-05-31 18:37:04,793 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:37:05,904 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:37:06,926 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:37:10,573 - INFO - login
+2024-05-31 18:39:29,540 - INFO - ====== WebDriver manager ======
+2024-05-31 18:39:34,055 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:39:35,145 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:39:36,091 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:39:37,574 - INFO - iniciar_telas
+2024-05-31 18:39:37,576 - INFO - ====== WebDriver manager ======
+2024-05-31 18:39:39,449 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:39:40,907 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:39:42,417 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:39:47,427 - INFO - login
+2024-05-31 18:41:33,340 - INFO - ====== WebDriver manager ======
+2024-05-31 18:41:37,540 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:41:38,632 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:41:39,564 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:41:41,059 - INFO - iniciar_telas
+2024-05-31 18:41:41,061 - INFO - ====== WebDriver manager ======
+2024-05-31 18:41:42,938 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:41:43,976 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:41:45,017 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:41:48,730 - INFO - login
+2024-05-31 18:43:52,990 - ERROR - login -> Message: element click intercepted: Element <input data-v-9b35dc4c="" id="email" class="peer input" placeholder="" type="email" name="email"> is not clickable at point (768, 284). Other element would receive the click: <span data-v-9b35dc4c="" class="label">...</span>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x009D8052]
+	(No symbol) [0x009D63D8]
+	(No symbol) [0x009D425B]
+	(No symbol) [0x009D3823]
+	(No symbol) [0x009C85EF]
+	(No symbol) [0x009F2DFC]
+	(No symbol) [0x009C8075]
+	(No symbol) [0x009F3094]
+	(No symbol) [0x00A0C034]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 18:44:31,686 - INFO - ====== WebDriver manager ======
+2024-05-31 18:44:36,312 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:44:59,679 - INFO - ====== WebDriver manager ======
+2024-05-31 18:45:08,897 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:45:11,329 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:45:12,698 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:45:14,378 - INFO - iniciar_telas
+2024-05-31 18:45:14,380 - INFO - ====== WebDriver manager ======
+2024-05-31 18:45:17,610 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:45:18,753 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:45:20,241 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:45:24,562 - INFO - login
+2024-05-31 18:49:35,085 - INFO - ====== WebDriver manager ======
+2024-05-31 18:49:40,856 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:49:42,059 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:49:43,290 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:49:45,691 - INFO - iniciar_telas
+2024-05-31 18:49:45,694 - INFO - ====== WebDriver manager ======
+2024-05-31 18:49:49,014 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:49:50,366 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:49:51,674 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:49:56,631 - INFO - login
+2024-05-31 18:50:53,344 - INFO - ====== WebDriver manager ======
+2024-05-31 18:50:59,406 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:51:00,693 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:51:02,163 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:51:03,795 - INFO - iniciar_telas
+2024-05-31 18:51:03,796 - INFO - ====== WebDriver manager ======
+2024-05-31 18:51:06,748 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:51:08,114 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:51:09,870 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:51:14,396 - INFO - login
+2024-05-31 18:53:29,654 - INFO - ====== WebDriver manager ======
+2024-05-31 18:53:35,036 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:53:36,450 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:53:37,630 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:53:39,321 - INFO - iniciar_telas
+2024-05-31 18:53:39,323 - INFO - ====== WebDriver manager ======
+2024-05-31 18:53:42,890 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:53:44,189 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:53:45,600 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:53:48,490 - INFO - login
+2024-05-31 18:55:26,852 - INFO - ====== WebDriver manager ======
+2024-05-31 18:55:33,436 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:55:35,224 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:55:36,441 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:55:37,707 - INFO - iniciar_telas
+2024-05-31 18:55:37,710 - INFO - ====== WebDriver manager ======
+2024-05-31 18:55:41,149 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:55:42,422 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 18:55:43,710 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 18:55:49,272 - INFO - login
+2024-05-31 19:04:26,222 - INFO - ====== WebDriver manager ======
+2024-05-31 19:04:31,878 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:04:33,143 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:04:35,175 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:04:37,227 - INFO - iniciar_telas
+2024-05-31 19:04:37,229 - INFO - ====== WebDriver manager ======
+2024-05-31 19:04:41,092 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:04:42,996 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:04:44,809 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:04:49,193 - INFO - login
+2024-05-31 19:07:58,041 - INFO - ====== WebDriver manager ======
+2024-05-31 19:08:07,452 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:08:09,251 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:08:10,497 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:12:28,609 - INFO - ====== WebDriver manager ======
+2024-05-31 19:12:34,849 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:12:37,822 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:12:39,240 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:12:40,934 - INFO - iniciar_telas
+2024-05-31 19:12:40,936 - INFO - ====== WebDriver manager ======
+2024-05-31 19:12:44,223 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:12:46,424 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:12:47,904 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:12:52,787 - INFO - login
+2024-05-31 19:17:28,466 - INFO - ====== WebDriver manager ======
+2024-05-31 19:17:36,851 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:17:39,032 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:17:40,374 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:17:42,178 - INFO - iniciar_telas
+2024-05-31 19:17:42,180 - INFO - ====== WebDriver manager ======
+2024-05-31 19:17:44,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:17:45,974 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:17:47,283 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:17:52,409 - INFO - login
+2024-05-31 19:19:43,984 - INFO - ====== WebDriver manager ======
+2024-05-31 19:19:47,031 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:19:48,206 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:19:49,413 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:20:34,087 - INFO - ====== WebDriver manager ======
+2024-05-31 19:20:39,302 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:20:40,650 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:20:41,861 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:20:43,583 - INFO - iniciar_telas
+2024-05-31 19:20:43,584 - INFO - ====== WebDriver manager ======
+2024-05-31 19:20:46,196 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:20:47,485 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:20:48,803 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:20:53,408 - INFO - login
+2024-05-31 19:24:03,194 - INFO - ====== WebDriver manager ======
+2024-05-31 19:24:08,414 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:24:09,863 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:24:11,221 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:24:13,878 - INFO - iniciar_telas
+2024-05-31 19:24:13,881 - INFO - ====== WebDriver manager ======
+2024-05-31 19:24:17,251 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:24:18,801 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:24:20,409 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:24:24,849 - INFO - login
+2024-05-31 19:26:27,737 - ERROR - login -> Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099138D]
+	(No symbol) [0x009C5E9A]
+	(No symbol) [0x009F2C6A]
+	(No symbol) [0x009EE01D]
+	(No symbol) [0x009EDBDB]
+	(No symbol) [0x00965235]
+	(No symbol) [0x0096562E]
+	(No symbol) [0x00965AAD]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00964DC7]
+	(No symbol) [0x009645E0]
+	GetHandleVerifier [0x00E7C49C+3653308]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 19:26:59,166 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 19:28:26,377 - INFO - ====== WebDriver manager ======
+2024-05-31 19:28:31,897 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:28:33,831 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:28:35,534 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:28:37,246 - INFO - iniciar_telas
+2024-05-31 19:28:37,248 - INFO - ====== WebDriver manager ======
+2024-05-31 19:28:40,570 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:28:41,792 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:28:42,968 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:28:47,232 - INFO - login
+2024-05-31 19:33:22,824 - INFO - ====== WebDriver manager ======
+2024-05-31 19:33:27,970 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:33:29,252 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:33:30,400 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:33:32,150 - INFO - iniciar_telas
+2024-05-31 19:33:32,151 - INFO - ====== WebDriver manager ======
+2024-05-31 19:33:35,376 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:33:36,939 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:33:38,226 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:33:42,977 - INFO - login
+2024-05-31 19:35:22,580 - INFO - ====== WebDriver manager ======
+2024-05-31 19:35:29,127 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:35:30,481 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:35:31,693 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:35:32,968 - INFO - iniciar_telas
+2024-05-31 19:35:32,970 - INFO - ====== WebDriver manager ======
+2024-05-31 19:35:35,830 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:35:36,986 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:35:38,123 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:35:42,043 - INFO - login
+2024-05-31 19:47:58,897 - INFO - ====== WebDriver manager ======
+2024-05-31 19:48:02,585 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:48:03,750 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:48:04,908 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:49:32,484 - INFO - ====== WebDriver manager ======
+2024-05-31 19:49:38,569 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:49:40,125 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:49:41,353 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:49:43,195 - INFO - iniciar_telas
+2024-05-31 19:49:43,196 - INFO - ====== WebDriver manager ======
+2024-05-31 19:49:46,043 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:49:47,422 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:49:48,801 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:49:53,709 - INFO - login
+2024-05-31 19:56:22,364 - INFO - ====== WebDriver manager ======
+2024-05-31 19:56:28,354 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:56:29,584 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:56:30,730 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:56:34,499 - INFO - iniciar_telas
+2024-05-31 19:56:34,505 - INFO - ====== WebDriver manager ======
+2024-05-31 19:56:36,989 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:56:38,337 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 19:56:39,691 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 19:56:44,509 - INFO - login
+2024-05-31 20:01:12,404 - INFO - ====== WebDriver manager ======
+2024-05-31 20:01:17,984 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:01:19,456 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:01:20,610 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:01:22,752 - INFO - iniciar_telas
+2024-05-31 20:01:22,754 - INFO - ====== WebDriver manager ======
+2024-05-31 20:01:25,386 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:01:26,754 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:01:28,112 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:01:32,035 - INFO - login
+2024-05-31 20:03:00,246 - INFO - ====== WebDriver manager ======
+2024-05-31 20:03:06,101 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:03:07,745 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:03:09,063 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:03:10,939 - INFO - iniciar_telas
+2024-05-31 20:03:10,940 - INFO - ====== WebDriver manager ======
+2024-05-31 20:03:13,759 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:03:15,495 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:03:16,706 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:03:20,029 - INFO - login
+2024-05-31 20:08:46,108 - INFO - ====== WebDriver manager ======
+2024-05-31 20:08:52,561 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:08:54,141 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:08:55,681 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:08:57,443 - INFO - iniciar_telas
+2024-05-31 20:08:57,446 - INFO - ====== WebDriver manager ======
+2024-05-31 20:09:01,770 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:09:03,071 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:09:04,471 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:09:08,817 - INFO - login
+2024-05-31 20:11:49,536 - INFO - ====== WebDriver manager ======
+2024-05-31 20:11:55,829 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:11:57,397 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:11:58,847 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:12:01,113 - INFO - iniciar_telas
+2024-05-31 20:12:01,115 - INFO - ====== WebDriver manager ======
+2024-05-31 20:12:04,059 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:12:06,087 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:12:07,784 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:12:13,106 - INFO - login
+2024-05-31 20:14:13,256 - INFO - ====== WebDriver manager ======
+2024-05-31 20:14:17,857 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:14:18,832 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:14:19,917 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:14:21,437 - INFO - iniciar_telas
+2024-05-31 20:14:21,438 - INFO - ====== WebDriver manager ======
+2024-05-31 20:14:23,563 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:14:24,707 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:14:25,752 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:14:28,578 - INFO - login
+2024-05-31 20:31:51,180 - INFO - ====== WebDriver manager ======
+2024-05-31 20:31:55,356 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:31:56,342 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:31:57,460 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:31:59,431 - INFO - iniciar_telas
+2024-05-31 20:31:59,432 - INFO - ====== WebDriver manager ======
+2024-05-31 20:32:01,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:32:02,432 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:32:03,485 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:32:07,222 - INFO - login
+2024-05-31 20:34:53,838 - INFO - ====== WebDriver manager ======
+2024-05-31 20:34:58,027 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:34:59,152 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:35:00,149 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:35:02,373 - INFO - iniciar_telas
+2024-05-31 20:35:02,375 - INFO - ====== WebDriver manager ======
+2024-05-31 20:35:04,933 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:35:06,345 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 20:35:07,507 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 20:35:10,080 - INFO - login
+2024-05-31 21:14:33,106 - INFO - ====== WebDriver manager ======
+2024-05-31 21:14:39,572 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:14:40,693 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:14:41,798 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:14:43,656 - INFO - iniciar_telas
+2024-05-31 21:14:43,658 - INFO - ====== WebDriver manager ======
+2024-05-31 21:14:46,099 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:14:47,326 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:14:48,783 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:14:52,135 - INFO - login
+2024-05-31 21:19:30,055 - INFO - ====== WebDriver manager ======
+2024-05-31 21:19:35,616 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:19:36,917 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:19:37,941 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:19:39,510 - INFO - iniciar_telas
+2024-05-31 21:19:39,512 - INFO - ====== WebDriver manager ======
+2024-05-31 21:19:41,899 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:19:43,096 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:19:44,280 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:19:48,771 - INFO - login
+2024-05-31 21:20:31,656 - ERROR - login -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[name="email"]"}
+  (Session info: chrome=125.0.6422.141); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00B0B8E3+45827]
+	(No symbol) [0x00A9DCC4]
+	(No symbol) [0x0099150F]
+	(No symbol) [0x009D20BC]
+	(No symbol) [0x009D216B]
+	(No symbol) [0x00A0E0F2]
+	(No symbol) [0x009F2E44]
+	(No symbol) [0x00A0C034]
+	(No symbol) [0x009F2B96]
+	(No symbol) [0x009C6998]
+	(No symbol) [0x009C751D]
+	GetHandleVerifier [0x00DC4513+2899763]
+	GetHandleVerifier [0x00E1793D+3240797]
+	GetHandleVerifier [0x00B913B4+593364]
+	GetHandleVerifier [0x00B982DC+621820]
+	(No symbol) [0x00AA70A4]
+	(No symbol) [0x00AA37A8]
+	(No symbol) [0x00AA3947]
+	(No symbol) [0x00A959FE]
+	BaseThreadInitThunk [0x77477BA9+25]
+	RtlInitializeExceptionChain [0x77C3BE3B+107]
+	RtlClearBits [0x77C3BDBF+191]
+
+2024-05-31 21:20:36,450 - ERROR - iniciar_telas -> Parando bot
+2024-05-31 21:21:26,786 - INFO - ====== WebDriver manager ======
+2024-05-31 21:21:31,568 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:21:32,660 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:21:33,600 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:21:35,097 - INFO - iniciar_telas
+2024-05-31 21:21:35,098 - INFO - ====== WebDriver manager ======
+2024-05-31 21:21:37,153 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:21:38,197 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:21:39,252 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:21:42,012 - INFO - login
+2024-05-31 21:27:51,189 - INFO - ====== WebDriver manager ======
+2024-05-31 21:27:55,311 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:27:56,633 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:27:57,576 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:27:59,052 - INFO - iniciar_telas
+2024-05-31 21:27:59,056 - INFO - ====== WebDriver manager ======
+2024-05-31 21:28:00,934 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:28:01,979 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:28:03,062 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:28:06,712 - INFO - login
+2024-05-31 21:35:32,857 - INFO - ====== WebDriver manager ======
+2024-05-31 21:35:37,011 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:35:38,138 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:35:39,114 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:35:40,632 - INFO - iniciar_telas
+2024-05-31 21:35:40,633 - INFO - ====== WebDriver manager ======
+2024-05-31 21:35:42,692 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:35:43,755 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:35:44,793 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:35:48,673 - INFO - login
+2024-05-31 21:38:18,439 - INFO - ====== WebDriver manager ======
+2024-05-31 21:38:22,531 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:38:23,610 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:38:24,607 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:38:26,141 - INFO - iniciar_telas
+2024-05-31 21:38:26,143 - INFO - ====== WebDriver manager ======
+2024-05-31 21:38:28,197 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:38:29,254 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:38:30,289 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:38:34,141 - INFO - login
+2024-05-31 21:41:49,640 - INFO - ====== WebDriver manager ======
+2024-05-31 21:41:53,799 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:41:55,122 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:41:56,058 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:41:57,577 - INFO - iniciar_telas
+2024-05-31 21:41:57,579 - INFO - ====== WebDriver manager ======
+2024-05-31 21:41:59,850 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:42:01,119 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:42:02,707 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:42:07,884 - INFO - login
+2024-05-31 21:44:57,984 - INFO - ====== WebDriver manager ======
+2024-05-31 21:45:02,761 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:45:03,878 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:45:04,820 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:45:06,307 - INFO - iniciar_telas
+2024-05-31 21:45:06,309 - INFO - ====== WebDriver manager ======
+2024-05-31 21:45:08,369 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:45:09,438 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:45:10,467 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:45:14,356 - INFO - login
+2024-05-31 21:46:23,667 - INFO - ====== WebDriver manager ======
+2024-05-31 21:46:28,267 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:46:29,579 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:46:30,656 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:46:32,194 - INFO - iniciar_telas
+2024-05-31 21:46:32,195 - INFO - ====== WebDriver manager ======
+2024-05-31 21:46:34,513 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:46:35,667 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:46:36,727 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:46:40,889 - INFO - login
+2024-05-31 21:50:30,970 - INFO - ====== WebDriver manager ======
+2024-05-31 21:50:35,468 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:50:36,759 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:50:37,743 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:50:39,012 - INFO - iniciar_telas
+2024-05-31 21:50:39,019 - INFO - ====== WebDriver manager ======
+2024-05-31 21:50:41,873 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:50:42,964 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:50:44,001 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:50:47,717 - INFO - login
+2024-05-31 21:52:37,331 - INFO - ====== WebDriver manager ======
+2024-05-31 21:52:41,470 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:52:42,545 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:52:43,518 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:52:45,033 - INFO - iniciar_telas
+2024-05-31 21:52:45,034 - INFO - ====== WebDriver manager ======
+2024-05-31 21:52:47,076 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:52:48,124 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 21:52:49,159 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 21:52:52,803 - INFO - login
+2024-05-31 22:00:34,584 - INFO - ====== WebDriver manager ======
+2024-05-31 22:00:37,515 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:00:38,457 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:00:39,370 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:01:22,645 - INFO - ====== WebDriver manager ======
+2024-05-31 22:01:27,090 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:01:28,215 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:01:29,163 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:01:30,822 - INFO - iniciar_telas
+2024-05-31 22:01:30,824 - INFO - ====== WebDriver manager ======
+2024-05-31 22:01:32,664 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:01:33,689 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:01:34,699 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:01:38,772 - INFO - login
+2024-05-31 22:05:57,788 - INFO - ====== WebDriver manager ======
+2024-05-31 22:06:02,081 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:06:03,193 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:06:04,113 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:06:05,576 - INFO - iniciar_telas
+2024-05-31 22:06:05,578 - INFO - ====== WebDriver manager ======
+2024-05-31 22:06:07,571 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:06:08,583 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:06:09,598 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:06:12,751 - INFO - login
+2024-05-31 22:08:28,232 - INFO - ====== WebDriver manager ======
+2024-05-31 22:08:29,990 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:08:30,909 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:08:31,807 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:08:55,415 - INFO - ====== WebDriver manager ======
+2024-05-31 22:08:59,433 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:09:00,458 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:09:01,379 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:09:08,844 - INFO - iniciar_telas
+2024-05-31 22:09:08,846 - INFO - ====== WebDriver manager ======
+2024-05-31 22:09:12,886 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:09:14,249 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:09:15,481 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:09:19,266 - INFO - login
+2024-05-31 22:35:05,778 - INFO - ====== WebDriver manager ======
+2024-05-31 22:35:10,756 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:35:12,068 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:35:13,007 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:35:19,985 - INFO - iniciar_telas
+2024-05-31 22:35:19,986 - INFO - ====== WebDriver manager ======
+2024-05-31 22:35:22,020 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:35:23,157 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:35:24,087 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:35:27,435 - INFO - login
+2024-05-31 22:38:14,016 - INFO - ====== WebDriver manager ======
+2024-05-31 22:38:18,214 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:38:19,300 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:38:20,370 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:38:27,812 - INFO - iniciar_telas
+2024-05-31 22:38:27,814 - INFO - ====== WebDriver manager ======
+2024-05-31 22:38:31,752 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:38:32,817 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:38:33,779 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:38:37,216 - INFO - login
+2024-05-31 22:39:34,571 - INFO - ====== WebDriver manager ======
+2024-05-31 22:39:38,792 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:39:40,180 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:39:41,137 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:39:48,420 - INFO - iniciar_telas
+2024-05-31 22:39:48,422 - INFO - ====== WebDriver manager ======
+2024-05-31 22:39:52,321 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:39:53,325 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:39:54,249 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:39:57,026 - INFO - login
+2024-05-31 22:43:47,742 - INFO - ====== WebDriver manager ======
+2024-05-31 22:43:51,883 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:43:52,856 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:43:53,884 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:44:00,952 - INFO - iniciar_telas
+2024-05-31 22:44:00,953 - INFO - ====== WebDriver manager ======
+2024-05-31 22:44:04,715 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:44:05,719 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:44:06,621 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:44:10,063 - INFO - login
+2024-05-31 22:45:35,991 - INFO - ====== WebDriver manager ======
+2024-05-31 22:45:40,155 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:45:41,261 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:45:42,203 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:45:49,484 - INFO - iniciar_telas
+2024-05-31 22:45:49,487 - INFO - ====== WebDriver manager ======
+2024-05-31 22:45:53,220 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:45:54,273 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:45:55,181 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:45:58,994 - INFO - login
+2024-05-31 22:57:25,554 - INFO - ====== WebDriver manager ======
+2024-05-31 22:57:29,805 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:57:30,916 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:57:31,887 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:57:39,123 - INFO - iniciar_telas
+2024-05-31 22:57:39,125 - INFO - ====== WebDriver manager ======
+2024-05-31 22:57:43,201 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:57:44,127 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 22:57:45,068 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 22:57:48,621 - INFO - login
+2024-05-31 23:21:20,053 - INFO - ====== WebDriver manager ======
+2024-05-31 23:21:24,972 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 23:21:26,317 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 23:21:27,324 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 23:21:36,885 - INFO - iniciar_telas
+2024-05-31 23:21:36,887 - INFO - ====== WebDriver manager ======
+2024-05-31 23:21:40,413 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 23:21:41,743 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-31 23:21:42,897 - INFO - Driver [C:\Users\gabri\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-05-31 23:21:46,310 - INFO - login
+2024-06-01 09:56:44,549 - INFO - ====== WebDriver manager ======
+2024-06-01 09:56:44,764 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:56:44,852 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:56:44,913 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:56:45,043 - INFO - WebDriver version 125.0.6422.141 selected
+2024-06-01 09:56:45,045 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/linux64/chromedriver-linux64.zip
+2024-06-01 09:56:45,046 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/linux64/chromedriver-linux64.zip
+2024-06-01 09:56:45,439 - INFO - Driver downloading response is 200
+2024-06-01 09:56:45,969 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:56:46,213 - INFO - Driver has been saved in cache [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141]
+2024-06-01 09:56:54,427 - INFO - iniciar_telas
+2024-06-01 09:56:54,428 - INFO - ====== WebDriver manager ======
+2024-06-01 09:56:54,486 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:56:54,540 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:56:54,594 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 09:56:55,659 - INFO - login
+2024-06-01 09:59:38,363 - INFO - ====== WebDriver manager ======
+2024-06-01 09:59:38,435 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:59:38,497 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:59:38,560 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 09:59:45,115 - INFO - iniciar_telas
+2024-06-01 09:59:45,115 - INFO - ====== WebDriver manager ======
+2024-06-01 09:59:45,168 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:59:45,222 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 09:59:45,275 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 09:59:46,357 - INFO - login
+2024-06-01 10:03:23,729 - INFO - ====== WebDriver manager ======
+2024-06-01 10:03:23,797 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:03:23,859 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:03:23,921 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:04:03,833 - INFO - ====== WebDriver manager ======
+2024-06-01 10:04:03,901 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:04:03,961 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:04:04,027 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:04:22,106 - INFO - iniciar_telas
+2024-06-01 10:04:22,106 - INFO - ====== WebDriver manager ======
+2024-06-01 10:04:22,189 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:04:22,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:04:22,299 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:04:23,353 - INFO - login
+2024-06-01 10:05:23,977 - INFO - ====== WebDriver manager ======
+2024-06-01 10:05:24,047 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:05:24,113 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:05:24,175 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:05:40,196 - INFO - iniciar_telas
+2024-06-01 10:05:40,196 - INFO - ====== WebDriver manager ======
+2024-06-01 10:05:40,251 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:05:40,304 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:05:40,357 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:05:41,540 - INFO - login
+2024-06-01 10:07:38,162 - INFO - ====== WebDriver manager ======
+2024-06-01 10:07:38,235 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:07:38,297 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:07:38,358 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:07:56,321 - INFO - iniciar_telas
+2024-06-01 10:07:56,322 - INFO - ====== WebDriver manager ======
+2024-06-01 10:07:56,389 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:07:56,444 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:07:56,497 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:07:57,592 - INFO - login
+2024-06-01 10:09:56,441 - INFO - ====== WebDriver manager ======
+2024-06-01 10:09:56,505 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:09:56,811 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:09:56,870 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:10:18,173 - INFO - iniciar_telas
+2024-06-01 10:10:18,174 - INFO - ====== WebDriver manager ======
+2024-06-01 10:10:18,245 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:10:18,300 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:10:18,353 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:10:19,423 - INFO - login
+2024-06-01 10:12:19,671 - INFO - ====== WebDriver manager ======
+2024-06-01 10:12:19,737 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:12:19,801 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:12:19,862 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:12:44,746 - INFO - iniciar_telas
+2024-06-01 10:12:44,747 - INFO - ====== WebDriver manager ======
+2024-06-01 10:12:44,809 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:12:44,863 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:12:44,915 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:12:45,970 - INFO - login
+2024-06-01 10:13:33,328 - INFO - ====== WebDriver manager ======
+2024-06-01 10:13:33,394 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:13:33,455 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:13:33,517 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:13:51,306 - INFO - iniciar_telas
+2024-06-01 10:13:51,307 - INFO - ====== WebDriver manager ======
+2024-06-01 10:13:51,367 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:13:51,420 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:13:51,473 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:13:52,551 - INFO - login
+2024-06-01 10:15:43,983 - INFO - ====== WebDriver manager ======
+2024-06-01 10:15:44,046 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:15:44,106 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:15:44,171 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:16:03,194 - INFO - iniciar_telas
+2024-06-01 10:16:03,195 - INFO - ====== WebDriver manager ======
+2024-06-01 10:16:03,253 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:16:03,310 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:16:03,366 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:16:04,389 - INFO - login
+2024-06-01 10:18:35,129 - INFO - ====== WebDriver manager ======
+2024-06-01 10:18:35,194 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:18:35,255 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:18:35,315 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:19:01,917 - INFO - ====== WebDriver manager ======
+2024-06-01 10:19:01,984 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:19:02,046 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:19:02,106 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:19:06,062 - INFO - iniciar_telas
+2024-06-01 10:19:06,062 - INFO - ====== WebDriver manager ======
+2024-06-01 10:19:06,112 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:19:06,165 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:19:06,218 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:19:07,259 - INFO - login
+2024-06-01 10:43:39,686 - INFO - ====== WebDriver manager ======
+2024-06-01 10:43:39,762 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:43:39,871 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:43:39,932 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:43:43,836 - INFO - iniciar_telas
+2024-06-01 10:43:43,837 - INFO - ====== WebDriver manager ======
+2024-06-01 10:43:43,892 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:43:43,945 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:43:43,998 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:43:45,079 - INFO - login
+2024-06-01 10:45:20,933 - INFO - ====== WebDriver manager ======
+2024-06-01 10:45:21,001 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:45:21,063 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:45:21,127 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:45:25,102 - INFO - iniciar_telas
+2024-06-01 10:45:25,103 - INFO - ====== WebDriver manager ======
+2024-06-01 10:45:25,154 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:45:25,208 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:45:25,262 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:45:26,302 - INFO - login
+2024-06-01 10:53:56,992 - INFO - ====== WebDriver manager ======
+2024-06-01 10:53:57,059 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:53:57,174 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:53:57,240 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:54:01,161 - INFO - iniciar_telas
+2024-06-01 10:54:01,162 - INFO - ====== WebDriver manager ======
+2024-06-01 10:54:01,217 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:54:01,270 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 10:54:01,323 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 10:54:02,456 - INFO - login
+2024-06-01 11:00:01,093 - INFO - ====== WebDriver manager ======
+2024-06-01 11:00:01,157 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:00:01,218 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:00:01,279 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:00:05,263 - INFO - iniciar_telas
+2024-06-01 11:00:05,263 - INFO - ====== WebDriver manager ======
+2024-06-01 11:00:05,314 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:00:05,373 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:00:05,426 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:00:06,537 - INFO - login
+2024-06-01 11:02:18,575 - INFO - ====== WebDriver manager ======
+2024-06-01 11:02:18,641 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:02:18,702 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:02:18,761 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:02:22,700 - INFO - iniciar_telas
+2024-06-01 11:02:22,700 - INFO - ====== WebDriver manager ======
+2024-06-01 11:02:22,753 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:02:22,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:02:22,859 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:02:23,917 - INFO - login
+2024-06-01 11:05:58,412 - INFO - ====== WebDriver manager ======
+2024-06-01 11:05:58,480 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:05:58,562 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:05:58,621 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:06:02,592 - INFO - iniciar_telas
+2024-06-01 11:06:02,593 - INFO - ====== WebDriver manager ======
+2024-06-01 11:06:02,648 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:06:02,703 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:06:02,759 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:06:03,888 - INFO - login
+2024-06-01 11:07:27,077 - INFO - ====== WebDriver manager ======
+2024-06-01 11:07:27,148 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:07:27,210 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:07:27,271 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:07:31,286 - INFO - iniciar_telas
+2024-06-01 11:07:31,287 - INFO - ====== WebDriver manager ======
+2024-06-01 11:07:31,339 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:07:31,393 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:07:31,445 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:07:32,533 - INFO - login
+2024-06-01 11:10:38,398 - INFO - ====== WebDriver manager ======
+2024-06-01 11:10:38,462 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:10:38,544 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:10:38,603 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:10:42,534 - INFO - iniciar_telas
+2024-06-01 11:10:42,535 - INFO - ====== WebDriver manager ======
+2024-06-01 11:10:42,584 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:10:42,639 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:10:42,692 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:10:43,692 - INFO - login
+2024-06-01 11:18:22,260 - INFO - ====== WebDriver manager ======
+2024-06-01 11:18:22,323 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:18:22,383 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:18:22,446 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:18:26,389 - INFO - iniciar_telas
+2024-06-01 11:18:26,389 - INFO - ====== WebDriver manager ======
+2024-06-01 11:18:26,440 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:18:26,494 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:18:26,547 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:18:27,647 - INFO - login
+2024-06-01 11:19:31,545 - INFO - ====== WebDriver manager ======
+2024-06-01 11:19:31,613 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:19:31,678 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:19:31,742 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:19:35,685 - INFO - iniciar_telas
+2024-06-01 11:19:35,685 - INFO - ====== WebDriver manager ======
+2024-06-01 11:19:35,735 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:19:35,788 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:19:35,842 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:19:36,858 - INFO - login
+2024-06-01 11:21:09,313 - INFO - ====== WebDriver manager ======
+2024-06-01 11:21:09,376 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:21:09,437 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:21:09,499 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:21:13,473 - INFO - iniciar_telas
+2024-06-01 11:21:13,473 - INFO - ====== WebDriver manager ======
+2024-06-01 11:21:13,524 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:21:13,578 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:21:13,630 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:21:14,665 - INFO - login
+2024-06-01 11:23:31,320 - INFO - ====== WebDriver manager ======
+2024-06-01 11:23:31,391 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:23:31,451 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:23:31,511 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:23:35,491 - INFO - iniciar_telas
+2024-06-01 11:23:35,492 - INFO - ====== WebDriver manager ======
+2024-06-01 11:23:35,547 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:23:35,602 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:23:35,656 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:23:36,750 - INFO - login
+2024-06-01 11:35:31,466 - INFO - ====== WebDriver manager ======
+2024-06-01 11:35:31,526 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:35:31,586 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:35:31,647 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:35:35,570 - INFO - iniciar_telas
+2024-06-01 11:35:35,571 - INFO - ====== WebDriver manager ======
+2024-06-01 11:35:35,619 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:35:35,672 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:35:35,726 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:35:36,769 - INFO - login
+2024-06-01 11:54:13,920 - INFO - ====== WebDriver manager ======
+2024-06-01 11:54:14,036 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:54:14,119 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:54:14,182 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:54:18,349 - INFO - iniciar_telas
+2024-06-01 11:54:18,349 - INFO - ====== WebDriver manager ======
+2024-06-01 11:54:18,412 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:54:18,469 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:54:18,522 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:54:19,935 - INFO - login
+2024-06-01 11:56:53,509 - INFO - ====== WebDriver manager ======
+2024-06-01 11:56:53,641 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:56:53,704 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:56:53,764 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:56:57,753 - INFO - iniciar_telas
+2024-06-01 11:56:57,754 - INFO - ====== WebDriver manager ======
+2024-06-01 11:56:57,810 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:56:57,865 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-01 11:56:57,919 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-01 11:56:59,281 - INFO - login
+2024-06-03 17:41:32,995 - INFO - ====== WebDriver manager ======
+2024-06-03 17:41:33,061 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:41:33,119 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:41:33,177 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-03 17:41:36,648 - INFO - ====== WebDriver manager ======
+2024-06-03 17:41:36,716 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:41:36,775 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:41:36,855 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-03 17:41:41,403 - INFO - iniciar_telas
+2024-06-03 17:41:41,404 - INFO - ====== WebDriver manager ======
+2024-06-03 17:41:41,456 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:41:41,507 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:41:41,557 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-03 17:41:43,053 - INFO - login
+2024-06-03 17:42:08,325 - INFO - ====== WebDriver manager ======
+2024-06-03 17:42:08,392 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:42:08,452 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:42:08,512 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-03 17:42:12,475 - INFO - iniciar_telas
+2024-06-03 17:42:12,475 - INFO - ====== WebDriver manager ======
+2024-06-03 17:42:12,524 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:42:12,576 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-03 17:42:12,626 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-03 17:42:14,263 - INFO - login
+2024-06-06 23:18:12,445 - INFO - ====== WebDriver manager ======
+2024-06-06 23:18:12,696 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:12,798 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:12,863 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:12,995 - INFO - WebDriver version 125.0.6422.141 selected
+2024-06-06 23:18:12,997 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/linux64/chromedriver-linux64.zip
+2024-06-06 23:18:12,997 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/linux64/chromedriver-linux64.zip
+2024-06-06 23:18:13,271 - INFO - Driver downloading response is 200
+2024-06-06 23:18:13,820 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:14,078 - INFO - Driver has been saved in cache [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141]
+2024-06-06 23:18:18,639 - INFO - iniciar_telas
+2024-06-06 23:18:18,640 - INFO - ====== WebDriver manager ======
+2024-06-06 23:18:18,742 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:18,795 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:18,849 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:18:20,364 - INFO - login
+2024-06-06 23:18:51,667 - INFO - ====== WebDriver manager ======
+2024-06-06 23:18:51,765 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:51,831 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:51,894 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:18:56,111 - INFO - iniciar_telas
+2024-06-06 23:18:56,112 - INFO - ====== WebDriver manager ======
+2024-06-06 23:18:56,164 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:56,220 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:18:56,274 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:18:57,695 - INFO - login
+2024-06-06 23:20:09,414 - INFO - ====== WebDriver manager ======
+2024-06-06 23:20:09,497 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:20:09,559 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:20:09,620 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:20:13,701 - INFO - iniciar_telas
+2024-06-06 23:20:13,701 - INFO - ====== WebDriver manager ======
+2024-06-06 23:20:13,753 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:20:13,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:20:13,862 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:20:15,823 - INFO - login
+2024-06-06 23:21:04,600 - ERROR - iniciar_telas -> list index out of range
+2024-06-06 23:26:37,044 - INFO - ====== WebDriver manager ======
+2024-06-06 23:26:37,128 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:26:37,197 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:26:37,261 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:27:41,716 - INFO - ====== WebDriver manager ======
+2024-06-06 23:27:41,778 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:27:41,841 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:27:41,901 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:27:45,827 - INFO - iniciar_telas
+2024-06-06 23:27:45,827 - INFO - ====== WebDriver manager ======
+2024-06-06 23:27:45,877 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:27:45,931 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:27:45,986 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:27:47,300 - INFO - login
+2024-06-06 23:30:50,556 - INFO - ====== WebDriver manager ======
+2024-06-06 23:30:50,619 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:30:50,683 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:30:50,746 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:30:54,722 - INFO - iniciar_telas
+2024-06-06 23:30:54,723 - INFO - ====== WebDriver manager ======
+2024-06-06 23:30:54,774 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:30:54,827 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:30:54,881 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:30:55,360 - ERROR - iniciar_telas -> Message: javascript error: Cannot redefine property: webdriver
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+#0 0x59b27f573e3a <unknown>
+#1 0x59b27f25d45c <unknown>
+#2 0x59b27f262b69 <unknown>
+#3 0x59b27f264bdc <unknown>
+#4 0x59b27f2ec289 <unknown>
+#5 0x59b27f2cc4b2 <unknown>
+#6 0x59b27f2eb2cc <unknown>
+#7 0x59b27f2cc253 <unknown>
+#8 0x59b27f29c1c7 <unknown>
+#9 0x59b27f29cb3e <unknown>
+#10 0x59b27f53a27b <unknown>
+#11 0x59b27f53e327 <unknown>
+#12 0x59b27f526dae <unknown>
+#13 0x59b27f53edf2 <unknown>
+#14 0x59b27f50b74f <unknown>
+#15 0x59b27f563128 <unknown>
+#16 0x59b27f5632fb <unknown>
+#17 0x59b27f572f6c <unknown>
+#18 0x7a382269ca94 <unknown>
+#19 0x7a3822729c3c <unknown>
+
+2024-06-06 23:31:12,536 - INFO - ====== WebDriver manager ======
+2024-06-06 23:31:12,631 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:31:12,692 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:31:12,754 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:31:16,684 - INFO - iniciar_telas
+2024-06-06 23:31:16,684 - INFO - ====== WebDriver manager ======
+2024-06-06 23:31:16,733 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:31:16,787 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:31:16,840 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:43:45,043 - INFO - ====== WebDriver manager ======
+2024-06-06 23:43:45,136 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:43:45,247 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:43:45,310 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:43:49,432 - INFO - iniciar_telas
+2024-06-06 23:43:50,684 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-06 23:43:52,344 - INFO - login
+2024-06-06 23:44:30,593 - INFO - ====== WebDriver manager ======
+2024-06-06 23:44:30,658 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:44:30,720 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:44:30,780 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:44:34,687 - INFO - iniciar_telas
+2024-06-06 23:44:35,688 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-06 23:44:37,100 - INFO - login
+2024-06-06 23:47:10,572 - INFO - ====== WebDriver manager ======
+2024-06-06 23:47:10,641 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:47:10,706 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:47:10,768 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:47:14,654 - INFO - iniciar_telas
+2024-06-06 23:47:15,669 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-06 23:47:17,300 - INFO - login
+2024-06-06 23:48:53,683 - INFO - ====== WebDriver manager ======
+2024-06-06 23:48:53,751 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:48:53,817 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:48:53,877 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:48:57,699 - INFO - iniciar_telas
+2024-06-06 23:48:58,589 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-06 23:49:00,173 - INFO - login
+2024-06-06 23:55:04,467 - INFO - ====== WebDriver manager ======
+2024-06-06 23:55:04,530 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:55:04,591 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:55:04,650 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:55:08,593 - INFO - iniciar_telas
+2024-06-06 23:55:09,787 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-06 23:55:12,548 - INFO - login
+2024-06-06 23:55:48,282 - INFO - ====== WebDriver manager ======
+2024-06-06 23:55:48,353 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:55:48,416 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:55:48,476 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:55:52,460 - INFO - iniciar_telas
+2024-06-06 23:55:53,429 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-06 23:55:54,907 - INFO - login
+2024-06-06 23:59:55,715 - INFO - ====== WebDriver manager ======
+2024-06-06 23:59:55,789 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:59:55,850 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-06 23:59:55,911 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-06 23:59:59,911 - INFO - iniciar_telas
+2024-06-07 00:00:00,907 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-07 00:00:03,892 - INFO - login
+2024-06-07 00:02:59,266 - INFO - ====== WebDriver manager ======
+2024-06-07 00:02:59,350 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 00:02:59,459 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 00:02:59,523 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 00:02:59,655 - INFO - WebDriver version 125.0.6422.141 selected
+2024-06-07 00:02:59,657 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/linux64/chromedriver-linux64.zip
+2024-06-07 00:02:59,657 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/linux64/chromedriver-linux64.zip
+2024-06-07 00:02:59,922 - INFO - Driver downloading response is 200
+2024-06-07 00:03:00,437 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 00:03:00,656 - INFO - Driver has been saved in cache [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141]
+2024-06-07 00:03:04,193 - INFO - iniciar_telas
+2024-06-07 00:03:05,169 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-07 00:03:06,709 - INFO - login
+2024-06-07 00:03:55,717 - ERROR - iniciar_telas -> Message: element click intercepted: Element <button _ngcontent-ylq-c48="" translate="" class="tab ng-star-inserted" style="width: 100px;">...</button> is not clickable at point (225, 334). Other element would receive the click: <div _ngcontent-ylq-c90="" class="controls">...</div>
+  (Session info: chrome=125.0.6422.141)
+Stacktrace:
+#0 0x648fb16efe3a <unknown>
+#1 0x648fb13d945c <unknown>
+#2 0x648fb142c336 <unknown>
+#3 0x648fb142a176 <unknown>
+#4 0x648fb1427b57 <unknown>
+#5 0x648fb142697c <unknown>
+#6 0x648fb141a0ff <unknown>
+#7 0x648fb14484b2 <unknown>
+#8 0x648fb1419a79 <unknown>
+#9 0x648fb144867e <unknown>
+#10 0x648fb14672cc <unknown>
+#11 0x648fb1448253 <unknown>
+#12 0x648fb14181c7 <unknown>
+#13 0x648fb1418b3e <unknown>
+#14 0x648fb16b627b <unknown>
+#15 0x648fb16ba327 <unknown>
+#16 0x648fb16a2dae <unknown>
+#17 0x648fb16badf2 <unknown>
+#18 0x648fb168774f <unknown>
+#19 0x648fb16df128 <unknown>
+#20 0x648fb16df2fb <unknown>
+#21 0x648fb16eef6c <unknown>
+#22 0x72a688a9ca94 <unknown>
+#23 0x72a688b29c3c <unknown>
+
+2024-06-07 00:04:04,598 - INFO - ====== WebDriver manager ======
+2024-06-07 00:04:04,747 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 00:04:04,811 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-07 00:04:04,877 - INFO - Driver [/home/emilsonsn/.wdm/drivers/chromedriver/linux64/125.0.6422.141/chromedriver-linux64/chromedriver] found in cache
+2024-06-07 00:04:08,945 - INFO - iniciar_telas
+2024-06-07 00:04:09,892 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
+2024-06-07 00:04:11,324 - INFO - login
