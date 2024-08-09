@@ -1669,3 +1669,14 @@ Stacktrace:
 2024-06-07 00:04:08,945 - INFO - iniciar_telas
 2024-06-07 00:04:09,892 - INFO - patching driver executable /home/emilsonsn/.local/share/undetected_chromedriver/undetected_chromedriver
 2024-06-07 00:04:11,324 - INFO - login
+2024-08-08 21:56:31,670 - INFO - ====== WebDriver manager ======
+2024-08-08 21:56:38,859 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-08 21:56:40,084 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-08 21:56:41,086 - INFO - There is no [win64] chromedriver "127.0.6533.99" for browser google-chrome "127.0.6533" in cache
+2024-08-08 21:56:41,087 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-08 21:56:43,404 - INFO - WebDriver version 127.0.6533.99 selected
+2024-08-08 21:56:43,411 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-08 21:56:43,412 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.99/win32/chromedriver-win32.zip
+2024-08-08 21:56:44,872 - INFO - Driver downloading response is 200
+2024-08-08 21:56:46,139 - INFO - Get LATEST chromedriver version for google-chrome
+2024-08-08 21:56:47,413 - INFO - Driver has been saved in cache [C:\Users\gabri\.wdm\drivers\chromedriver\win64\127.0.6533.99]
