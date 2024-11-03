@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: uc
+Version: 2.2.1
+Summary: A Deep Learning Framework
+Home-page: https://pypi.org/project/uc/
+Author: anycode
+Author-email: anycode@yahoo.com
+Maintainer: anycode
+Maintainer-email: anycode@yahoo.com
+License: UNKNOWN
+Platform: all
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries
+Description-Content-Type: text/markdown
+
+uc 2.2.1
+
+

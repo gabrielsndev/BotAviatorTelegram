@@ -1,0 +1,48 @@
+# coding: utf-8
+from __future__ import print_function, division, unicode_literals, absolute_import
+
+import sys
+
+
+def is_str(obj):
+    return isinstance(obj, (str, u"".__class__, "".__class__))
+
+
+def dumps(obj):
+    # convert from json to con
+    if isinstance(obj, bool):
+        if obj:
+            return "true"
+        return "false"
+    if isinstance(obj, (int, float)):
+        return str(obj)
+    if is_str(obj):
+        return "'" + obj.replace("'", "''") + "'"
+    if obj is None:
+        return "null"
+    if isinstance(obj, (list, tuple)):
+        s = "{"
+        for i, ele in enumerate(obj):
+            if i > 0:
+                s += ","
+            s += dumps(ele)
+        s += "}"
+        return s
+    if isinstance(obj, dict):
+        s = "{"
+        for i, key in enumerate(obj.keys()):
+            if i > 0:
+                s += ","
+            s += key + ":"
+            s += dumps(obj[key])
+        s += "}"
+        return s
+    return "null"
+
+
+if __name__ == '__main__':
+    print(dumps([{"x": [complex(1, 2), 1, True, 2, (3, 4),
+                        None, [{"y": 11}, 1e44]]}, [1, 2, 3], "3'"]))
+
+    print(dumps({'Shape': [28, 28, 1], "InputType": 'pointwise',
+                 "ImportanceMul": 0.0001}).encode())
